@@ -285,7 +285,7 @@ The same model family (`openai/gpt-oss-120b`) is used for generation and evaluat
 
 The purpose of the evaluation is to demonstrate that retrieval and generation quality were **measured, analyzed, and iterated on**, rather than assumed to work.
 
-## 🔗 Links
+
 
 - **Live Demo:** https://sohel2309-enterprise-rag.hf.space
 - **GitHub:** https://github.com/Sohel2309/Enterprise-RAG
