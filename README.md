@@ -287,9 +287,6 @@ The purpose of the evaluation is to demonstrate that retrieval and generation qu
 
 
 
-- **Live Demo:** https://sohel2309-enterprise-rag.hf.space
-- **GitHub:** https://github.com/Sohel2309/Enterprise-RAG
-
 ---
 
 **MIT License**
